@@ -22,7 +22,7 @@ This repository contains a COVID-19 website built using HTML, CSS, and JavaScrip
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/covid-website.git
+   git clone https://github.com/lovisbansal00/covid-website.git
    ```
 
 2. Navigate to the project directory:
